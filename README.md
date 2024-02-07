@@ -32,3 +32,9 @@ Este juego utiliza la biblioteca Tkinter para la interfaz gráfica. Agradecemos 
 
 ¡Diviértete jugando al ahorcado!
 
+## Contributors
+
+- [ Francisco Vilahermosa @franbucho ](https://github.com/Franbucho)
+
+Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request.
+
